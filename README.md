@@ -1,4 +1,4 @@
 # Crepe-cracks-deobfs
-My Own cracks and deobfs of Crepe client (Japanese client)
+Client by: [cocoapc911](https://github.com/cocoapc911) <br />
 
-Never forgot... !!!SB27 ON TOP!!!
+My Own cracks and deobfs of Crepe client (Japanese client)
